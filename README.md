@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Michaelt Inga
 
-I'm a passionate DevOps engineer with over [X] years of experience in the industry and **5 AWS certifications**. Throughout my career, I’ve had the opportunity to work at companies like **Applying Consulting**, and I’m currently part of the team at **NTT Data**.
+I'm a passionate DevOps engineer with over 3+ years of experience in the industry and **5 AWS certifications**. Throughout my career, I’ve had the opportunity to work at companies like **Applying Consulting**, and I’m currently part of the team at **NTT Data**.
 
 ## 🚀 About Me
 - 🌱 I’m currently learning and expanding my knowledge in DevOps.
@@ -9,6 +9,13 @@ I'm a passionate DevOps engineer with over [X] years of experience in the indust
   - **Terraform**: Specialized in Infrastructure as Code (IaC).
   - **Cloud Architecture**: Designing and building resilient and scalable solutions.
   - **CI/CD**: Implementation and management of automated pipelines.
+
+## 🏅 AWS Certifications
+- **AWS Certified Cloud Practitioner**
+- **AWS Certified Solutions Architect – Associate**
+- **AWS Certified Solutions Architect – Professional**
+- **AWS Certified SysOps Administrator**
+- **AWS Certified Security – Specialty**
 
 ## 💬 Ask Me About
 - **AWS** and how to maximize the benefits of cloud services.

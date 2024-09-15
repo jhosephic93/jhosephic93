@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Michaelt Inga
+# Hello! 👋 I'm Michaelt Inga |  DevOps Engineer Cloud (AWS) | Architect Cloud with AWS.
 
 I'm a passionate DevOps engineer with over 3+ years of experience in the industry and **5 AWS certifications**. Throughout my career, I’ve had the opportunity to work at companies like **Applying Consulting**, and I’m currently part of the team at **NTT Data**.
 

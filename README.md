@@ -53,10 +53,10 @@ I hold **5 AWS Certifications**, demonstrating my commitment to maintaining a hi
 
 <p align="center">
   <a href="https://github.com/jhosephic93">
-    <img src="https://github-readme-stats.vercel.app/api?username=jhosephic93&show_icons=true&theme=radical&hide_border=true" alt="Michaelt's GitHub stats" />
+    <img src="https://github-readme-stats.shion.dev/api?username=jhosephic93&show_icons=true&theme=radical&hide_border=true" alt="Michaelt's GitHub stats" />
   </a>
   <a href="https://github.com/jhosephic93">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhosephic93&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jhosephic93&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
